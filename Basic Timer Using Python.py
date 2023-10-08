@@ -18,7 +18,7 @@ def timer(x):
 
         print(f"{CLEAR_AND_RETURN}{minutes:02d}:{seconds:02d}")
 
-    # playsound("Ringtone Of Your Choice")
+    playsound("Ringtone Of Your Choice")
 
 
 timer(3)
