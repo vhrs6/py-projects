@@ -2,7 +2,7 @@ import random
 import string
 
 
-letters = string.ascii_lowercase
+letters = string.ascii_letters
 special_char = string.punctuation
 numbers = string.digits
 
